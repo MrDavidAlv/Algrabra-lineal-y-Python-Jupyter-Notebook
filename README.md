@@ -1,4 +1,4 @@
- # ÁLGEBRA LINEAL CON PYTHON
+ # ÁLGEBRA LINEAL && PYTHON
 
 <div id="header" align="center"> 
 <a href="/algebra.ipynb"">
