@@ -1,7 +1,20 @@
  # ÁLGEBRA LINEAL CON PYTHON
 
-<div id="header" align="center"> <img src="/images/00_portada.png" width="100%"/> </div>
+<div id="header" align="center"> 
 
- [Empezar](/algebra.ipynb){.btn.btn-lg.btn-success}
+ [![álgebra lineal](/images/00_portada.png)](/algebra.ipynb)
 
-<div id="header" align="center"> <button href="/algebra.ipynb)" width="100%"/> </button> </div>
+</div>
+
+
+<div id="header" align="center"> 
+ 
+
+[![Botón](https://via.placeholder.com/150x50.png?text=Iniciar)](/algebra.ipynb)
+
+
+<div id="header" align="center"> 
+<a href="/algebra.ipynb"">
+<img src="/images/00_portada.png" width="100%"/>
+</a>
+</div>
