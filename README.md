@@ -2,7 +2,7 @@
 
 <div id="header" align="center"> 
 <a href="/algebra.ipynb"">
-<img src="/images/00_portada.png" width="70%"/>
+<img src="/images/00_portada.png" width="60%"/>
 </a>
 </div>
 
