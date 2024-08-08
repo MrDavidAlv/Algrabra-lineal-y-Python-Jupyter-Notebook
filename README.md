@@ -1,17 +1,10 @@
  # ÁLGEBRA LINEAL CON PYTHON
 
 <div id="header" align="center"> 
-
- [![álgebra lineal](/images/00_portada.png)](/algebra.ipynb)
-
+<a href="/algebra.ipynb"">
+<img src="/images/00_portada.png" width="70%"/>
+</a>
 </div>
-
-
-<div id="header" align="center"> 
- 
-
-[![Botón](https://via.placeholder.com/150x50.png?text=Iniciar)](/algebra.ipynb)
-
 
 <div id="header" align="center"> 
 <a href="/algebra.ipynb"">
