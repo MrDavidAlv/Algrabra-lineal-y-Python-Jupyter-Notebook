@@ -15,6 +15,6 @@
 
 <div id="header" align="center"> 
 <a href="/algebra.ipynb"">
-<img src="/images/start.png" width="100%"/>
+<img src="/images/start.png" width="30%"/>
 </a>
 </div>
